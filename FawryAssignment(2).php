@@ -184,4 +184,4 @@ class QuantumBookstoreFullTest {
     
 }
 QuantumBookstoreFullTest::run();
-
+// Note: I am currently a third-year student at university.
