@@ -1,5 +1,6 @@
 # 📚 Quantum Bookstore – Fawry Internship Task
-
+(images/codeRun.png)
+(images/output.png)
 This project is a simple simulation of an online bookstore built in PHP, as part of the **Fawry Full Stack Internship - 2nd Challenge**.
 
 It showcases core object-oriented programming (OOP) principles and focuses on building an easily extensible system for managing different types of books.
